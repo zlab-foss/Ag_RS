@@ -15,7 +15,7 @@
 
 ###### 1. Initial preparation
 
-<img src="https://user-images.githubusercontent.com/34648501/165078807-6af5909f-510e-4a46-b2be-879eb5cb3c29.jpg" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/34648501/165079209-0998b90e-3a1b-458b-b58c-ae4b24226cdb.png" width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/34648501/165078807-6af5909f-510e-4a46-b2be-879eb5cb3c29.jpg" width="200" height="200"/> <img src="https://user-images.githubusercontent.com/34648501/165079209-0998b90e-3a1b-458b-b58c-ae4b24226cdb.png" width="200" height="200"/>
 
 
 
