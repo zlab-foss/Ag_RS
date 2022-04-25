@@ -3,5 +3,5 @@
 
 ## This project aims to monitor croplands through satellite imageries
 
-![plot](./doc/Logo_Fanap.png)
+![plot](https://user-images.githubusercontent.com/34648501/165074079-1829651f-a686-4d65-99f0-b25860ed1d39.jpg)
 
