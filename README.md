@@ -7,6 +7,19 @@
 
 ## This project aims to monitor croplands through satellite imageries...
 
-### Until now (25th April, 2022), These modules have been provided, all of which can help experts and scientists manage agricultural product effecively !
 
-##### 1: 
+### This project uses Google Earth Engine (GEE) cloud processing capabilities, integrated by different libraries of Python programming language.
+### As can be seen, there are two main folders, 'src' , and 'doc'. In 'scr' directory, all developed codes have been provided. While detailed descriptions and supplementary materials are in 'doc' folder.
+
+#### Until now (25th April, 2022), These modules have been provided, all of which can help experts and scientists manage agricultural products effectively ! Moreover, if you want to use the codes, please run them in the following manne:
+
+###### 1. Initial preparation
+###### 2. Data preparation
+###### 3. Indices computation
+###### 4. LAI computation
+###### 5. Anomaly detection
+###### 6. Crop-type mapping
+###### 7. Harvest time prediction
+
+
+### For further explanations, please refere to 'doc' folder...
