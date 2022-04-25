@@ -27,9 +27,12 @@
 ###### 4. LAI computation
 ###### 5. Anomaly detection
 
-<img src="https://user-images.githubusercontent.com/34648501/165080642-73138969-598b-4efa-a916-3361d45b3514.JPG" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/34648501/165080642-73138969-598b-4efa-a916-3361d45b3514.JPG" width="300" height="200"/>
 
 ###### 6. Crop-type mapping
+
+<img src="https://user-images.githubusercontent.com/34648501/165080908-f76d9481-cc99-46ee-9f10-f4c0c0f77b6d.JPG" width="300" height="300"/>
+
 ###### 7. Harvest time prediction
 
 
