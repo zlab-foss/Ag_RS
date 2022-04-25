@@ -23,8 +23,10 @@
 <img src="https://user-images.githubusercontent.com/34648501/165078807-6af5909f-510e-4a46-b2be-879eb5cb3c29.jpg" width="200" height="200"/> <img src="https://user-images.githubusercontent.com/34648501/165079209-0998b90e-3a1b-458b-b58c-ae4b24226cdb.png" width="200" height="200"/>
 
 ###### 2. Data preparation
-###### 3. Indices computation
-###### 4. LAI computation
+###### 3. Indices computation and 4. LAI computation
+
+<img src="https://user-images.githubusercontent.com/34648501/165081138-c4544f04-be20-4dc5-92b1-fb446bb0e247.JPG" width="300" height="200"/>
+
 ###### 5. Anomaly detection
 
 <img src="https://user-images.githubusercontent.com/34648501/165080642-73138969-598b-4efa-a916-3361d45b3514.JPG" width="300" height="200"/>
