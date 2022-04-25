@@ -11,7 +11,7 @@
 ### This project uses Google Earth Engine (GEE) cloud processing capabilities, integrated by different libraries of Python programming language.
 
 
-<img src="https://user-images.githubusercontent.com/34648501/165079936-66139bf9-72b1-4968-8b98-274da46a8607.pn" width="200" height="200"/> <img src="https://user-images.githubusercontent.com/34648501/165079954-d3543285-1965-4018-ac68-d1ebad83bf4c.png" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/34648501/165079936-66139bf9-72b1-4968-8b98-274da46a8607.png" width="200" height="200"/> <img src="https://user-images.githubusercontent.com/34648501/165079954-d3543285-1965-4018-ac68-d1ebad83bf4c.png" width="200" height="200"/>
 
 
 ### As can be seen, there are two main folders, 'src' , and 'doc'. In 'scr' directory, all developed codes have been provided. While detailed descriptions and supplementary materials are in 'doc' folder.
