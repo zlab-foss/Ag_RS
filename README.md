@@ -5,4 +5,8 @@
 
 
 
-## This project aims to monitor croplands through satellite imageries
+## This project aims to monitor croplands through satellite imageries...
+
+### Until now (25th April, 2022), These modules have been provided, all of which can help experts and scientists manage agricultural product effecively !
+
+##### 1: 
