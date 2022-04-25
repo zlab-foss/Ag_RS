@@ -37,5 +37,6 @@
 
 ###### 7. Harvest time prediction
 
+<img src="https://user-images.githubusercontent.com/34648501/165082551-7a63a2d8-6c01-45d5-8fab-99f63f11a5d0.JPG" width="300" height="200"/>
 
 ### For further explanations, please refere to 'doc' folder...
