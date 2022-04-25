@@ -14,6 +14,11 @@
 #### Until now (25th April, 2022), These modules have been provided, all of which can help experts and scientists manage agricultural products effectively ! Moreover, if you want to use the codes, please run them in the following manne:
 
 ###### 1. Initial preparation
+
+<img src="https://user-images.githubusercontent.com/34648501/165078807-6af5909f-510e-4a46-b2be-879eb5cb3c29.jpg" width="100" height="100"/> <img src="https://user-images.githubusercontent.com/34648501/165079209-0998b90e-3a1b-458b-b58c-ae4b24226cdb.png" width="100" height="100"/>
+
+
+
 ###### 2. Data preparation
 ###### 3. Indices computation
 ###### 4. LAI computation
